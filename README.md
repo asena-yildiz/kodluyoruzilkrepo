@@ -4,9 +4,9 @@ Bu repo [kodluyoruz](https:/kodluyoruz.org) Front-End Eğitiminde oluşturduğum
 ![gorsel](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
 ## Inatallation
-Öncelikle projeyi clonelayın. (https://github.com/metallurgista/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelayın. (https://github.com/asena-yildiz/kodluyoruzilkrepo.git)
 ```
-git clone https://github.com/metallurgista/kodluyoruzilkrepo.git
+git clone https://github.com/asena-yildiz/kodluyoruzilkrepo.git
 ```
 
 ## Usage
